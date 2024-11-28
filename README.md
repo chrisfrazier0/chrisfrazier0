@@ -12,12 +12,12 @@ products, solutions, and IT services for companies all over the world. Have a pr
 
 ## 👨🏼‍💻 About Me
 
-🔭 I’m currently working for a [Digital Healthcare][exi-url] startup  
+[//]: # "🔭 I'm currently ..."
+
 💡 I love to explore new technologies  
 🌱 I’m currently learning [Dart and Flutter][flutter-url]  
 🎸 In my free time I play guitar  
-💬 Ask me about **cloud architectures**  
-⚡ Fun fact: I played roller hockey in high school
+💬 Ask me about **cloud architectures**
 
 <br>
 
@@ -30,16 +30,16 @@ products, solutions, and IT services for companies all over the world. Have a pr
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
     <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">&nbsp;
     <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;
 </p>
 
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
-[exi-url]: https://www.exi.life
 [flutter-url]: https://flutter.dev/
