@@ -28,7 +28,7 @@ products, solutions, and IT services for companies all over the world. Have a pr
     <img src="https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=visualstudio&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
-    <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">&nbsp;
+    <img src="https://img.shields.io/badge/Svelte-b32d00?style=for-the-badge&logo=svelte&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;
