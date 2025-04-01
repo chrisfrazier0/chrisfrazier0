@@ -9,7 +9,7 @@ products, solutions, and IT services for companies all over the world. Have a pr
 [LinkedIn][linkedin-url] or at [frazier.software][website-url].
 
 <p align="center">
-    <a href="https://linkedin.com/in/chrisfrazier0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://linkedin.com/in/chrisfrazier0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=minutemailer&logoColor=white"></a>
     &nbsp;
     <a href="https://buymeacoffee.com/chrisfrazier0"><img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
@@ -35,6 +35,7 @@ products, solutions, and IT services for companies all over the world. Have a pr
     <img src="https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;
