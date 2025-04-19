@@ -21,8 +21,8 @@ products, solutions, and IT services for companies all over the world. Have a pr
 🚀 I’m always tinkering with cutting-edge tech  
 ☁️ Cloud architecture geek &mdash;ask me how to scale anything!  
 🎸 In my free time I play guitar  
-💻 Check out my latest project: [Vital Mox][latest-project] *&mdash;Utility for tracking life totals in Magic the Gathering*  
-🎯 Current obsession: Catching up to Simon with Dart  
+💻 Check out my latest project: [Dots][latest-project] *&mdash;the cosmic dotfile manager*  
+🎯 Current obsession: Updating all of my bash scripts with some vibe coding  
 🧠 Fascinated by AI. I like implementing complex systems using simple code  
 
 <br>
@@ -44,4 +44,4 @@ products, solutions, and IT services for companies all over the world. Have a pr
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
 [flutter-url]: https://flutter.dev/
-[latest-project]: https://github.com/Frazier-Software/vitalmox/
+[latest-project]: https://github.com/Frazier-Software/dots/
