@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/chrisfrazier0/chrisfrazier0/main/wave.gif" width="30px" height="30px">
 
-*"Code simple, scale big, rock hard."*  
+_"Code simple, scale big, rock hard."_
 
 I'm Chris Frazier, a full stack software engineer from Warrenton, VA. I have over 20 years of experience in developing
 products, solutions, and IT services for companies all over the world. Have a project? You can reach me on
@@ -21,9 +21,9 @@ products, solutions, and IT services for companies all over the world. Have a pr
 🚀 I’m always tinkering with cutting-edge tech  
 ☁️ Cloud architecture geek &mdash;ask me how to scale anything!  
 🎸 In my free time I play guitar  
-💻 Check out my latest project: [Dots][latest-project] *&mdash;the cosmic dotfile manager*  
+💻 Check out my latest project: [Dots][latest-project] _&mdash;the cosmic dotfile manager_  
 🎯 Current obsession: Updating all of my bash scripts with some vibe coding  
-🧠 Fascinated by AI. I like implementing complex systems using simple code  
+🧠 Fascinated by AI. I like implementing complex systems using simple code
 
 <br>
 
@@ -32,6 +32,7 @@ products, solutions, and IT services for companies all over the world. Have a pr
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=xcode&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><br>
