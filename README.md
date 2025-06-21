@@ -2,11 +2,11 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/chrisfrazier0/chrisfrazier0/main/wave.gif" width="30px" height="30px">
 
-_"Code simple, scale big, rock hard."_
-
-I'm Chris Frazier, a full stack software engineer from Warrenton, VA. I have over 20 years of experience in developing
-products, solutions, and IT services for companies all over the world. Have a project? You can reach me on
-[LinkedIn][linkedin-url] or at [frazier.software][website-url].
+I'm Chris Frazier, a full stack software engineer based in Warrenton, VA, with over 20 years of experience building
+robust, scalable solutions for companies worldwide. My expertise spans cloud architecture, modern programming languages,
+and infrastructure-as-code, with a focus on creating efficient and maintainable systems. I’m passionate about solving
+complex problems with clean, pragmatic code. For collaboration or inquiries, connect with me on [LinkedIn][linkedin-url]
+or visit [frazier.software][website-url].
 
 <p align="center">
     <a href="https://linkedin.com/in/chrisfrazier0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=minutemailer&logoColor=white"></a>
@@ -16,16 +16,14 @@ products, solutions, and IT services for companies all over the world. Have a pr
 
 ## 👨🏼‍💻 About Me
 
-[//]: # "🔭 I'm currently ..."
+I’m a seasoned software engineer dedicated to delivering high-quality, scalable solutions that drive business value.
+My career has focused on full stack development, cloud architecture, and DevOps practices, enabling organizations to
+build reliable systems that meet modern demands. I thrive on challenges that require balancing technical complexity
+with practical implementation.
 
-🚀 I’m always tinkering with cutting-edge tech  
-☁️ Cloud architecture geek &mdash;ask me how to scale anything!  
-🎸 In my free time I play guitar  
-💻 Check out my latest project: [Dots][latest-project] _&mdash;the cosmic dotfile manager_  
-🎯 Current obsession: Updating all of my bash scripts with some vibe coding  
-🧠 Fascinated by AI. I like implementing complex systems using simple code
-
-<br>
+Currently, I’m exploring advancements in AI-driven development and refining my open-source contributions, such as
+[Dots][dots], a streamlined dotfile manager designed to simplify developer workflows. My approach emphasizes clean
+code, modular design, and leveraging cutting-edge tools to build systems that are both innovative and maintainable.
 
 ## 🔧 Technologies & Tools
 
@@ -42,7 +40,18 @@ products, solutions, and IT services for companies all over the world. Have a pr
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;
 </p>
 
+## 🚀 My Latest Project
+
+[CrabScript][latest-repo] is an interpreted language that I am developing in Rust, designed for performance and memory
+safety without garbage collection. It supports high-order functions, closures, block-scoped variables, references, and
+more, making it versatile hobby language with interesting uses. [CrabScript][latest-repo] leverages Rust’s memory
+guarantees to ensure robust performance while delivering a clean and expressive syntax.
+
+- [GitHub Repo][latest-repo]
+
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
-[flutter-url]: https://flutter.dev/
-[latest-project]: https://github.com/Frazier-Software/dots/
+[dots]: https://github.com/Frazier-Software/dots/
+[latest-repo]: https://github.com/chrisfrazier0/crabscript/
+[latest-homepage]: https://github.com/
+[latest-other]: https://github.com/
