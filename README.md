@@ -40,15 +40,6 @@ code, modular design, and leveraging cutting-edge tools to build systems that ar
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;
 </p>
 
-## 🚀 My Latest Project
-
-[CrabScript][latest-repo] is an interpreted language that I am developing in Rust, designed for performance and memory
-safety without garbage collection. It supports high-order functions, closures, block-scoped variables, references, and
-more, making it versatile hobby language with interesting uses. [CrabScript][latest-repo] leverages Rust’s memory
-guarantees to ensure robust performance while delivering a clean and expressive syntax.
-
-- [GitHub Repo][latest-repo]
-
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
 [dots]: https://github.com/Frazier-Software/dots/
