@@ -10,8 +10,6 @@ or visit [frazier.software][website-url].
 
 <p align="center">
     <a href="https://linkedin.com/in/chrisfrazier0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=minutemailer&logoColor=white"></a>
-    &nbsp;
-    <a href="https://buymeacoffee.com/chrisfrazier0"><img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
 
 ## 👨🏼‍💻 About Me
@@ -42,7 +40,7 @@ code, modular design, and leveraging cutting-edge tools to build systems that ar
 
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
-[dots]: https://github.com/Frazier-Software/dots/
+[dots]: https://github.com/chrisfrazier0/dots/
 [latest-repo]: https://github.com/chrisfrazier0/crabscript/
 [latest-homepage]: https://github.com/
 [latest-other]: https://github.com/
