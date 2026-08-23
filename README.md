@@ -2,34 +2,14 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/chrisfrazier0/chrisfrazier0/main/wave.gif" width="30px" height="30px">
 
-I'm Chris Frazier, a full stack software engineer based in Warrenton, VA, with over 20 years of experience building
-robust, scalable solutions for companies worldwide. My expertise spans cloud architecture, modern programming languages,
-and infrastructure-as-code, with a focus on creating efficient and maintainable systems. I’m passionate about solving
-complex problems with clean, pragmatic code. For collaboration or inquiries, connect with me on [LinkedIn][linkedin-url]
-or visit [frazier.software][website-url].
-
-<p align="center">
-    <a href="https://linkedin.com/in/chrisfrazier0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=minutemailer&logoColor=white"></a>
-</p>
-
-## 👨🏼‍💻 About Me
-
-I’m a seasoned software engineer dedicated to delivering high-quality, scalable solutions that drive business value.
-My career has focused on full stack development, cloud architecture, and DevOps practices, enabling organizations to
-build reliable systems that meet modern demands. I thrive on challenges that require balancing technical complexity
-with practical implementation.
-
-Currently, I’m exploring advancements in AI-driven development and refining my open-source contributions, such as
-[Dots][dots], a streamlined dotfile manager designed to simplify developer workflows. My approach emphasizes clean
-code, modular design, and leveraging cutting-edge tools to build systems that are both innovative and maintainable.
+I'm Chris Frazier, a software architect and applied mathematician from northern VA. **I build things to understand
+how they work.**
 
 ## 🔧 Technologies & Tools
 
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=xcode&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
@@ -38,9 +18,27 @@ code, modular design, and leveraging cutting-edge tools to build systems that ar
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;
 </p>
 
+## 👨🏼‍💻 About Me
+
+My professional work is large-scale software architecture: distributed systems, security, infrastructure, and applications.
+Outside of that, I like taking systems that normally arrive as black boxes and rebuilding them from their underlying ideas.
+
+That has led me through cryptography, zero-knowledge proofs, blockchains, virtual machines, neural networks, physics
+simulation, compilers, and whatever else currently has my attention.
+
+My approach is usually the same: start with the fundamentals, strip away the abstractions, build the machinery myself,
+and experiment until I understand not just **how** something works, but **why it has to work that way**. I'm
+particularly interested in the boundary between theory and implementation — taking ideas expressed in mathematics,
+algorithms, or papers and turning them into working systems I can poke at, break, and rebuild.
+
+I care less about *using* complicated machinery than understanding why the machinery needs to exist.
+
+I have no formal education in mathematics or computer science. I learned by building things, reading obsessively,
+getting things wrong, and following interesting questions until I could make the ideas work. Most of the repositories
+here are artifacts of that process.
+
+For a curated collection of my professional work and experiments, see **[frazier.software][website-url]**. For
+collaboration or inquiries, connect with me on **[LinkedIn][linkedin-url]**.
+
 [website-url]: https://frazier.software
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
-[dots]: https://github.com/chrisfrazier0/dots/
-[latest-repo]: https://github.com/chrisfrazier0/crabscript/
-[latest-homepage]: https://github.com/
-[latest-other]: https://github.com/
